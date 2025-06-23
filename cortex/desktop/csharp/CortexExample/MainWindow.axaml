@@ -1,0 +1,23 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="CortexExample.MainWindow"
+        Title="CortexExample">
+
+    <StackPanel Margin="20">
+        <Button Margin="0,20,0,0" Click="OnLogout">Logout</Button>
+        <Button Margin="0,20,0,0" Click="OnGetUserLogin">Get User Login</Button>
+        <Button Margin="0,20,0,0" Click="OnLogin">Login</Button>
+        <Button Margin="0,20,0,0" Click="OnAuthorize">Authorize</Button>
+        <Button Margin="0,20,0,0" Click="OnGetUserInfo">Get User Information</Button>
+        <Button Margin="0,20,0,0" Click="OnGetLicenseInfo">Get License Information</Button>
+        <Button Margin="0,20,0,0" Click="OnQueryHeadset">Query Headset</Button>
+        <Button Margin="0,20,0,0" Click="OnConnectHeadset">Connect Headset</Button>
+        <Button Margin="0,20,0,0" Click="OnCreateSession">Create Session</Button>
+        <Button Margin="0,20,0,0" Click="OnSubscribeData">Subscribe Data</Button>
+        <Button Margin="0,20,0,0" Click="OnUnsubscribeData">Unsubscribe Data</Button>
+    </StackPanel>
+
+</Window>

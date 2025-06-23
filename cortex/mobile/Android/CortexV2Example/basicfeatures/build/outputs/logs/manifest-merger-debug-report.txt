@@ -1,0 +1,348 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml:2:1-40:12
+MERGED from [com.google.android.material:material:1.4.0] D:\listasapp\caches\8.11.1\transforms\40ca29f957c326845aa890b0266cdaae\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [:cortexclient] C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\cortexclient\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:2:1-34:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] D:\listasapp\caches\8.11.1\transforms\e0bf3427a1d43d0e501f8dc4867e5305\transformed\constraintlayout-2.1.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] D:\listasapp\caches\8.11.1\transforms\318872b31d48a55c255bffcd4ef09996\transformed\appcompat-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] D:\listasapp\caches\8.11.1\transforms\fcabff8cbb146d86fb81c75c28004382\transformed\lifecycle-livedata-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] D:\listasapp\caches\8.11.1\transforms\ee4865455d093be1f04e262019c771ee\transformed\lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [net.openid:appauth:0.8.0] D:\listasapp\caches\8.11.1\transforms\f97207f8d8eec42155f031581a095f8e\transformed\appauth-0.8.0\AndroidManifest.xml:15:1-56:12
+MERGED from [:EmotivCortexLib] D:\listasapp\caches\8.11.1\transforms\b632f565e4b7c63187f2e79574e55847\transformed\EmotivCortexLib\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\listasapp\caches\8.11.1\transforms\0ae7dd6b09c472e6a43792eb54d50787\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] D:\listasapp\caches\8.11.1\transforms\353e41ffff1421c72d6bd35057c0d232\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] D:\listasapp\caches\8.11.1\transforms\3f18beed79bf9c7bc2b592d0b1ed024a\transformed\activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] D:\listasapp\caches\8.11.1\transforms\f472929ad66dbd42faa1d3785dfc3afd\transformed\appcompat-resources-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] D:\listasapp\caches\8.11.1\transforms\4ef2e23ea0b5c2c3394830342510ea20\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\listasapp\caches\8.11.1\transforms\d4fde4fd08f941d1ec911278966e4edf\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\listasapp\caches\8.11.1\transforms\3647e46ce9d7e767397f4a26991dff0f\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] D:\listasapp\caches\8.11.1\transforms\cc9850943e39e88e8df798fa6d999673\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\listasapp\caches\8.11.1\transforms\a7e53bec0a825868bc85a1e6fbbb4682\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\listasapp\caches\8.11.1\transforms\4264ceee4739bdc74063fa839da131c8\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.2.0] D:\listasapp\caches\8.11.1\transforms\caa380f43c733f637fb8b590e2d2ffee\transformed\browser-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\listasapp\caches\8.11.1\transforms\f92e28370dd86e6ee5eaad3cc51cd473\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\listasapp\caches\8.11.1\transforms\625eef79f585234a94fc512845c9928e\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] D:\listasapp\caches\8.11.1\transforms\f87ca9571a3e184989f4f03909090893\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\listasapp\caches\8.11.1\transforms\a0d676358dbb6442d2690be901c39317\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] D:\listasapp\caches\8.11.1\transforms\c4169478b09dd7d4e6e7f32a4b4e2c8c\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] D:\listasapp\caches\8.11.1\transforms\2fb2883b1ad3b1a8fcf7f3e750c07e29\transformed\core-1.5.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\listasapp\caches\8.11.1\transforms\52d9fa7aeaafec9349007b54f9c3489a\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] D:\listasapp\caches\8.11.1\transforms\21b7b89a85621b6d77d88526f0b07ebd\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] D:\listasapp\caches\8.11.1\transforms\a88ad6fb915a4ed9ab6e8e180428d9c9\transformed\savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] D:\listasapp\caches\8.11.1\transforms\56ab226ea72c6373d1449708203e86bc\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] D:\listasapp\caches\8.11.1\transforms\0693d607b154b5c34b9e6150e0d10042\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] D:\listasapp\caches\8.11.1\transforms\e6cd83fefad1c1f5eb7298b6d3970dbb\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\listasapp\caches\8.11.1\transforms\f97622ea24a9238a01f937f39dc2b652\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] D:\listasapp\caches\8.11.1\transforms\31847d6cba28bc55d83e7651dfcee8f2\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] D:\listasapp\caches\8.11.1\transforms\a0bb83116968614cc112ae6295b5d00d\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] D:\listasapp\caches\8.11.1\transforms\fa4fb28fff6799803b0b28d0e96666cb\transformed\lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] D:\listasapp\caches\8.11.1\transforms\adf852aa240f7a4c8fcfd7fd713cc12a\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] D:\listasapp\caches\8.11.1\transforms\80e5452f8e98c383b1199821de2e17c9\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\listasapp\caches\8.11.1\transforms\5d443dd37c7dc98df4d467b6ad1b4540\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\listasapp\caches\8.11.1\transforms\0e680fd63331042c27fe44b4fc920e81\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\listasapp\caches\8.11.1\transforms\5bf1a4d34eb77098d3b22eba306e9238\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] D:\listasapp\caches\8.11.1\transforms\0f28f5c9a7951608b001dfbfd1b37145\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] D:\listasapp\caches\8.11.1\transforms\3856b63a801fdf84a9327b9e74884be7\transformed\annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+	package
+		INJECTED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml:4:5-38:19
+MERGED from [com.google.android.material:material:1.4.0] D:\listasapp\caches\8.11.1\transforms\40ca29f957c326845aa890b0266cdaae\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] D:\listasapp\caches\8.11.1\transforms\40ca29f957c326845aa890b0266cdaae\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [:cortexclient] C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\cortexclient\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:24:5-32:19
+MERGED from [:cortexclient] C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\cortexclient\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:24:5-32:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] D:\listasapp\caches\8.11.1\transforms\e0bf3427a1d43d0e501f8dc4867e5305\transformed\constraintlayout-2.1.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] D:\listasapp\caches\8.11.1\transforms\e0bf3427a1d43d0e501f8dc4867e5305\transformed\constraintlayout-2.1.1\AndroidManifest.xml:9:5-20
+MERGED from [net.openid:appauth:0.8.0] D:\listasapp\caches\8.11.1\transforms\f97207f8d8eec42155f031581a095f8e\transformed\appauth-0.8.0\AndroidManifest.xml:36:5-54:19
+MERGED from [net.openid:appauth:0.8.0] D:\listasapp\caches\8.11.1\transforms\f97207f8d8eec42155f031581a095f8e\transformed\appauth-0.8.0\AndroidManifest.xml:36:5-54:19
+MERGED from [androidx.core:core:1.5.0] D:\listasapp\caches\8.11.1\transforms\2fb2883b1ad3b1a8fcf7f3e750c07e29\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] D:\listasapp\caches\8.11.1\transforms\2fb2883b1ad3b1a8fcf7f3e750c07e29\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\listasapp\caches\8.11.1\transforms\f97622ea24a9238a01f937f39dc2b652\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\listasapp\caches\8.11.1\transforms\f97622ea24a9238a01f937f39dc2b652\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		ADDED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml:6:9-41
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] D:\listasapp\caches\8.11.1\transforms\2fb2883b1ad3b1a8fcf7f3e750c07e29\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml:5:9-35
+	android:theme
+		ADDED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml:11:9-40
+	android:name
+		ADDED from [:cortexclient] C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\cortexclient\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:25:9-76
+activity#com.emotiv.cortexv2example.basicfeatures.RecordMarkerActivity
+ADDED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml:13:9-58
+	android:name
+		ADDED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml:13:19-55
+activity#com.emotiv.cortexv2example.basicfeatures.PerformanceMetricsActivity
+ADDED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml:14:9-64
+	android:name
+		ADDED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml:14:19-61
+activity#com.emotiv.cortexv2example.basicfeatures.MotionActivity
+ADDED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml:15:9-52
+	android:name
+		ADDED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml:15:19-49
+activity#com.emotiv.cortexv2example.basicfeatures.MentalCommandTrainingMCActivity
+ADDED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml:16:9-69
+	android:name
+		ADDED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml:16:19-66
+activity#com.emotiv.cortexv2example.basicfeatures.MentalCommandTrainingActivity
+ADDED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml:17:9-67
+	android:name
+		ADDED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml:17:19-64
+activity#com.emotiv.cortexv2example.basicfeatures.MentalCommandActivity
+ADDED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml:18:9-59
+	android:name
+		ADDED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml:18:19-56
+activity#com.emotiv.cortexv2example.basicfeatures.HeadsetSessionVirtualHeadset
+ADDED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml:19:9-66
+	android:name
+		ADDED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml:19:19-63
+activity#com.emotiv.cortexv2example.basicfeatures.HeadsetSessionActivity
+ADDED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml:20:9-60
+	android:name
+		ADDED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml:20:19-57
+activity#com.emotiv.cortexv2example.basicfeatures.FacialExpressionTrainingSecondActivity
+ADDED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml:21:9-76
+	android:name
+		ADDED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml:21:19-73
+activity#com.emotiv.cortexv2example.basicfeatures.FacialExpressionTrainingActivity
+ADDED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml:22:9-70
+	android:name
+		ADDED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml:22:19-67
+activity#com.emotiv.cortexv2example.basicfeatures.FacialExpressionActivity
+ADDED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml:23:9-62
+	android:name
+		ADDED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml:23:19-59
+activity#com.emotiv.cortexv2example.basicfeatures.EEGActivity
+ADDED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml:24:9-49
+	android:name
+		ADDED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml:24:19-46
+activity#com.emotiv.cortexv2example.basicfeatures.BandPowerActivity
+ADDED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml:25:9-55
+	android:name
+		ADDED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml:25:19-52
+activity#com.emotiv.cortexv2example.basicfeatures.AuthorizeActivity
+ADDED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml:26:9-55
+	android:name
+		ADDED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml:26:19-52
+activity#com.emotiv.cortexv2example.basicfeatures.MainActivity
+ADDED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml:27:9-37:20
+	android:label
+		ADDED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml:30:13-45
+	android:exported
+		ADDED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml:28:13-36
+	android:theme
+		ADDED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml:31:13-69
+	android:name
+		ADDED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml:29:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml
+INJECTED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.4.0] D:\listasapp\caches\8.11.1\transforms\40ca29f957c326845aa890b0266cdaae\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] D:\listasapp\caches\8.11.1\transforms\40ca29f957c326845aa890b0266cdaae\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [:cortexclient] C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\cortexclient\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
+MERGED from [:cortexclient] C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\cortexclient\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] D:\listasapp\caches\8.11.1\transforms\e0bf3427a1d43d0e501f8dc4867e5305\transformed\constraintlayout-2.1.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] D:\listasapp\caches\8.11.1\transforms\e0bf3427a1d43d0e501f8dc4867e5305\transformed\constraintlayout-2.1.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] D:\listasapp\caches\8.11.1\transforms\318872b31d48a55c255bffcd4ef09996\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] D:\listasapp\caches\8.11.1\transforms\318872b31d48a55c255bffcd4ef09996\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] D:\listasapp\caches\8.11.1\transforms\fcabff8cbb146d86fb81c75c28004382\transformed\lifecycle-livedata-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] D:\listasapp\caches\8.11.1\transforms\fcabff8cbb146d86fb81c75c28004382\transformed\lifecycle-livedata-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] D:\listasapp\caches\8.11.1\transforms\ee4865455d093be1f04e262019c771ee\transformed\lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] D:\listasapp\caches\8.11.1\transforms\ee4865455d093be1f04e262019c771ee\transformed\lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [net.openid:appauth:0.8.0] D:\listasapp\caches\8.11.1\transforms\f97207f8d8eec42155f031581a095f8e\transformed\appauth-0.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [net.openid:appauth:0.8.0] D:\listasapp\caches\8.11.1\transforms\f97207f8d8eec42155f031581a095f8e\transformed\appauth-0.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:EmotivCortexLib] D:\listasapp\caches\8.11.1\transforms\b632f565e4b7c63187f2e79574e55847\transformed\EmotivCortexLib\AndroidManifest.xml:5:5-44
+MERGED from [:EmotivCortexLib] D:\listasapp\caches\8.11.1\transforms\b632f565e4b7c63187f2e79574e55847\transformed\EmotivCortexLib\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\listasapp\caches\8.11.1\transforms\0ae7dd6b09c472e6a43792eb54d50787\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\listasapp\caches\8.11.1\transforms\0ae7dd6b09c472e6a43792eb54d50787\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] D:\listasapp\caches\8.11.1\transforms\353e41ffff1421c72d6bd35057c0d232\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] D:\listasapp\caches\8.11.1\transforms\353e41ffff1421c72d6bd35057c0d232\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] D:\listasapp\caches\8.11.1\transforms\3f18beed79bf9c7bc2b592d0b1ed024a\transformed\activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] D:\listasapp\caches\8.11.1\transforms\3f18beed79bf9c7bc2b592d0b1ed024a\transformed\activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] D:\listasapp\caches\8.11.1\transforms\f472929ad66dbd42faa1d3785dfc3afd\transformed\appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] D:\listasapp\caches\8.11.1\transforms\f472929ad66dbd42faa1d3785dfc3afd\transformed\appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] D:\listasapp\caches\8.11.1\transforms\4ef2e23ea0b5c2c3394830342510ea20\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] D:\listasapp\caches\8.11.1\transforms\4ef2e23ea0b5c2c3394830342510ea20\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\listasapp\caches\8.11.1\transforms\d4fde4fd08f941d1ec911278966e4edf\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\listasapp\caches\8.11.1\transforms\d4fde4fd08f941d1ec911278966e4edf\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\listasapp\caches\8.11.1\transforms\3647e46ce9d7e767397f4a26991dff0f\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\listasapp\caches\8.11.1\transforms\3647e46ce9d7e767397f4a26991dff0f\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] D:\listasapp\caches\8.11.1\transforms\cc9850943e39e88e8df798fa6d999673\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] D:\listasapp\caches\8.11.1\transforms\cc9850943e39e88e8df798fa6d999673\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\listasapp\caches\8.11.1\transforms\a7e53bec0a825868bc85a1e6fbbb4682\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\listasapp\caches\8.11.1\transforms\a7e53bec0a825868bc85a1e6fbbb4682\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\listasapp\caches\8.11.1\transforms\4264ceee4739bdc74063fa839da131c8\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\listasapp\caches\8.11.1\transforms\4264ceee4739bdc74063fa839da131c8\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.2.0] D:\listasapp\caches\8.11.1\transforms\caa380f43c733f637fb8b590e2d2ffee\transformed\browser-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.2.0] D:\listasapp\caches\8.11.1\transforms\caa380f43c733f637fb8b590e2d2ffee\transformed\browser-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\listasapp\caches\8.11.1\transforms\f92e28370dd86e6ee5eaad3cc51cd473\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\listasapp\caches\8.11.1\transforms\f92e28370dd86e6ee5eaad3cc51cd473\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\listasapp\caches\8.11.1\transforms\625eef79f585234a94fc512845c9928e\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\listasapp\caches\8.11.1\transforms\625eef79f585234a94fc512845c9928e\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\listasapp\caches\8.11.1\transforms\f87ca9571a3e184989f4f03909090893\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\listasapp\caches\8.11.1\transforms\f87ca9571a3e184989f4f03909090893\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\listasapp\caches\8.11.1\transforms\a0d676358dbb6442d2690be901c39317\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\listasapp\caches\8.11.1\transforms\a0d676358dbb6442d2690be901c39317\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] D:\listasapp\caches\8.11.1\transforms\c4169478b09dd7d4e6e7f32a4b4e2c8c\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] D:\listasapp\caches\8.11.1\transforms\c4169478b09dd7d4e6e7f32a4b4e2c8c\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] D:\listasapp\caches\8.11.1\transforms\2fb2883b1ad3b1a8fcf7f3e750c07e29\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] D:\listasapp\caches\8.11.1\transforms\2fb2883b1ad3b1a8fcf7f3e750c07e29\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\listasapp\caches\8.11.1\transforms\52d9fa7aeaafec9349007b54f9c3489a\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\listasapp\caches\8.11.1\transforms\52d9fa7aeaafec9349007b54f9c3489a\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] D:\listasapp\caches\8.11.1\transforms\21b7b89a85621b6d77d88526f0b07ebd\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] D:\listasapp\caches\8.11.1\transforms\21b7b89a85621b6d77d88526f0b07ebd\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] D:\listasapp\caches\8.11.1\transforms\a88ad6fb915a4ed9ab6e8e180428d9c9\transformed\savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] D:\listasapp\caches\8.11.1\transforms\a88ad6fb915a4ed9ab6e8e180428d9c9\transformed\savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] D:\listasapp\caches\8.11.1\transforms\56ab226ea72c6373d1449708203e86bc\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] D:\listasapp\caches\8.11.1\transforms\56ab226ea72c6373d1449708203e86bc\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] D:\listasapp\caches\8.11.1\transforms\0693d607b154b5c34b9e6150e0d10042\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] D:\listasapp\caches\8.11.1\transforms\0693d607b154b5c34b9e6150e0d10042\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] D:\listasapp\caches\8.11.1\transforms\e6cd83fefad1c1f5eb7298b6d3970dbb\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] D:\listasapp\caches\8.11.1\transforms\e6cd83fefad1c1f5eb7298b6d3970dbb\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\listasapp\caches\8.11.1\transforms\f97622ea24a9238a01f937f39dc2b652\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\listasapp\caches\8.11.1\transforms\f97622ea24a9238a01f937f39dc2b652\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] D:\listasapp\caches\8.11.1\transforms\31847d6cba28bc55d83e7651dfcee8f2\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] D:\listasapp\caches\8.11.1\transforms\31847d6cba28bc55d83e7651dfcee8f2\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] D:\listasapp\caches\8.11.1\transforms\a0bb83116968614cc112ae6295b5d00d\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] D:\listasapp\caches\8.11.1\transforms\a0bb83116968614cc112ae6295b5d00d\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] D:\listasapp\caches\8.11.1\transforms\fa4fb28fff6799803b0b28d0e96666cb\transformed\lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] D:\listasapp\caches\8.11.1\transforms\fa4fb28fff6799803b0b28d0e96666cb\transformed\lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] D:\listasapp\caches\8.11.1\transforms\adf852aa240f7a4c8fcfd7fd713cc12a\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] D:\listasapp\caches\8.11.1\transforms\adf852aa240f7a4c8fcfd7fd713cc12a\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] D:\listasapp\caches\8.11.1\transforms\80e5452f8e98c383b1199821de2e17c9\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] D:\listasapp\caches\8.11.1\transforms\80e5452f8e98c383b1199821de2e17c9\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\listasapp\caches\8.11.1\transforms\5d443dd37c7dc98df4d467b6ad1b4540\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\listasapp\caches\8.11.1\transforms\5d443dd37c7dc98df4d467b6ad1b4540\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\listasapp\caches\8.11.1\transforms\0e680fd63331042c27fe44b4fc920e81\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\listasapp\caches\8.11.1\transforms\0e680fd63331042c27fe44b4fc920e81\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\listasapp\caches\8.11.1\transforms\5bf1a4d34eb77098d3b22eba306e9238\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\listasapp\caches\8.11.1\transforms\5bf1a4d34eb77098d3b22eba306e9238\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] D:\listasapp\caches\8.11.1\transforms\0f28f5c9a7951608b001dfbfd1b37145\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] D:\listasapp\caches\8.11.1\transforms\0f28f5c9a7951608b001dfbfd1b37145\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] D:\listasapp\caches\8.11.1\transforms\3856b63a801fdf84a9327b9e74884be7\transformed\annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] D:\listasapp\caches\8.11.1\transforms\3856b63a801fdf84a9327b9e74884be7\transformed\annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+	android:targetSdkVersion
+		INJECTED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [:cortexclient] C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\cortexclient\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:7:5-67
+MERGED from [net.openid:appauth:0.8.0] D:\listasapp\caches\8.11.1\transforms\f97207f8d8eec42155f031581a095f8e\transformed\appauth-0.8.0\AndroidManifest.xml:24:5-67
+MERGED from [net.openid:appauth:0.8.0] D:\listasapp\caches\8.11.1\transforms\f97207f8d8eec42155f031581a095f8e\transformed\appauth-0.8.0\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [:cortexclient] C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\cortexclient\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:cortexclient] C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\cortexclient\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from [:cortexclient] C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\cortexclient\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.BLUETOOTH
+ADDED from [:cortexclient] C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\cortexclient\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from [:cortexclient] C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\cortexclient\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:9:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from [:cortexclient] C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\cortexclient\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:10:5-74
+	android:name
+		ADDED from [:cortexclient] C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\cortexclient\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:10:22-71
+uses-permission#android.permission.BLUETOOTH_SCAN
+ADDED from [:cortexclient] C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\cortexclient\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:11:5-73
+	android:name
+		ADDED from [:cortexclient] C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\cortexclient\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:11:22-70
+uses-permission#android.permission.BLUETOOTH_CONNECT
+ADDED from [:cortexclient] C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\cortexclient\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from [:cortexclient] C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\cortexclient\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:12:22-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [:cortexclient] C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\cortexclient\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from [:cortexclient] C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\cortexclient\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:cortexclient] C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\cortexclient\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from [:cortexclient] C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\cortexclient\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:cortexclient] C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\cortexclient\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from [:cortexclient] C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\cortexclient\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:15:22-76
+uses-feature#android.hardware.bluetooth
+ADDED from [:cortexclient] C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\cortexclient\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:17:5-19:35
+	android:required
+		ADDED from [:cortexclient] C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\cortexclient\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:19:9-32
+	android:name
+		ADDED from [:cortexclient] C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\cortexclient\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:18:9-50
+uses-feature#android.hardware.bluetooth_le
+ADDED from [:cortexclient] C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\cortexclient\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:20:5-22:35
+	android:required
+		ADDED from [:cortexclient] C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\cortexclient\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:22:9-32
+	android:name
+		ADDED from [:cortexclient] C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\cortexclient\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:21:9-53
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\User\Desktop\emotivData\projectRepo\cortex-embedded-lib-example\mobile\Android\CortexV2Example\basicfeatures\src\main\AndroidManifest.xml:2:1-40:12 reason: com.emotiv.cortexv2example requested WRITE_EXTERNAL_STORAGE
+queries
+ADDED from [net.openid:appauth:0.8.0] D:\listasapp\caches\8.11.1\transforms\f97207f8d8eec42155f031581a095f8e\transformed\appauth-0.8.0\AndroidManifest.xml:26:5-34:15
+intent#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+data:scheme:https
+ADDED from [net.openid:appauth:0.8.0] D:\listasapp\caches\8.11.1\transforms\f97207f8d8eec42155f031581a095f8e\transformed\appauth-0.8.0\AndroidManifest.xml:27:9-33:18
+action#android.intent.action.VIEW
+ADDED from [net.openid:appauth:0.8.0] D:\listasapp\caches\8.11.1\transforms\f97207f8d8eec42155f031581a095f8e\transformed\appauth-0.8.0\AndroidManifest.xml:28:13-65
+	android:name
+		ADDED from [net.openid:appauth:0.8.0] D:\listasapp\caches\8.11.1\transforms\f97207f8d8eec42155f031581a095f8e\transformed\appauth-0.8.0\AndroidManifest.xml:28:21-62
+category#android.intent.category.BROWSABLE
+ADDED from [net.openid:appauth:0.8.0] D:\listasapp\caches\8.11.1\transforms\f97207f8d8eec42155f031581a095f8e\transformed\appauth-0.8.0\AndroidManifest.xml:30:13-74
+	android:name
+		ADDED from [net.openid:appauth:0.8.0] D:\listasapp\caches\8.11.1\transforms\f97207f8d8eec42155f031581a095f8e\transformed\appauth-0.8.0\AndroidManifest.xml:30:23-71
+data
+ADDED from [net.openid:appauth:0.8.0] D:\listasapp\caches\8.11.1\transforms\f97207f8d8eec42155f031581a095f8e\transformed\appauth-0.8.0\AndroidManifest.xml:32:13-44
+	android:scheme
+		ADDED from [net.openid:appauth:0.8.0] D:\listasapp\caches\8.11.1\transforms\f97207f8d8eec42155f031581a095f8e\transformed\appauth-0.8.0\AndroidManifest.xml:32:19-41
+activity#net.openid.appauth.AuthorizationManagementActivity
+ADDED from [net.openid:appauth:0.8.0] D:\listasapp\caches\8.11.1\transforms\f97207f8d8eec42155f031581a095f8e\transformed\appauth-0.8.0\AndroidManifest.xml:37:9-41:75
+	android:launchMode
+		ADDED from [net.openid:appauth:0.8.0] D:\listasapp\caches\8.11.1\transforms\f97207f8d8eec42155f031581a095f8e\transformed\appauth-0.8.0\AndroidManifest.xml:40:13-44
+	android:exported
+		ADDED from [net.openid:appauth:0.8.0] D:\listasapp\caches\8.11.1\transforms\f97207f8d8eec42155f031581a095f8e\transformed\appauth-0.8.0\AndroidManifest.xml:39:13-37
+	android:theme
+		ADDED from [net.openid:appauth:0.8.0] D:\listasapp\caches\8.11.1\transforms\f97207f8d8eec42155f031581a095f8e\transformed\appauth-0.8.0\AndroidManifest.xml:41:13-72
+	android:name
+		ADDED from [net.openid:appauth:0.8.0] D:\listasapp\caches\8.11.1\transforms\f97207f8d8eec42155f031581a095f8e\transformed\appauth-0.8.0\AndroidManifest.xml:38:13-78
+activity#net.openid.appauth.RedirectUriReceiverActivity
+ADDED from [net.openid:appauth:0.8.0] D:\listasapp\caches\8.11.1\transforms\f97207f8d8eec42155f031581a095f8e\transformed\appauth-0.8.0\AndroidManifest.xml:42:9-53:20
+	android:exported
+		ADDED from [net.openid:appauth:0.8.0] D:\listasapp\caches\8.11.1\transforms\f97207f8d8eec42155f031581a095f8e\transformed\appauth-0.8.0\AndroidManifest.xml:44:13-36
+	android:name
+		ADDED from [net.openid:appauth:0.8.0] D:\listasapp\caches\8.11.1\transforms\f97207f8d8eec42155f031581a095f8e\transformed\appauth-0.8.0\AndroidManifest.xml:43:13-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:${appAuthRedirectScheme}
+ADDED from [net.openid:appauth:0.8.0] D:\listasapp\caches\8.11.1\transforms\f97207f8d8eec42155f031581a095f8e\transformed\appauth-0.8.0\AndroidManifest.xml:45:13-52:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:emotiv-881e33e84e87c8540ffcee38472953ee
+ADDED from [net.openid:appauth:0.8.0] D:\listasapp\caches\8.11.1\transforms\f97207f8d8eec42155f031581a095f8e\transformed\appauth-0.8.0\AndroidManifest.xml:45:13-52:29
+category#android.intent.category.DEFAULT
+ADDED from [net.openid:appauth:0.8.0] D:\listasapp\caches\8.11.1\transforms\f97207f8d8eec42155f031581a095f8e\transformed\appauth-0.8.0\AndroidManifest.xml:48:17-76
+	android:name
+		ADDED from [net.openid:appauth:0.8.0] D:\listasapp\caches\8.11.1\transforms\f97207f8d8eec42155f031581a095f8e\transformed\appauth-0.8.0\AndroidManifest.xml:48:27-73

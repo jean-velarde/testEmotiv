@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "com.emotiv.cortexv2example.basicfeatures-merged_res-6:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.emotiv.cortexv2example.basicfeatures-main-8:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.emotiv.cortexv2example.basicfeatures-merged_res-6:/layout_activity_record_marker.xml.flat",
+        "source": "com.emotiv.cortexv2example.basicfeatures-main-8:/layout/activity_record_marker.xml"
+    },
+    {
+        "merged": "com.emotiv.cortexv2example.basicfeatures-merged_res-6:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.emotiv.cortexv2example.basicfeatures-main-8:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.emotiv.cortexv2example.basicfeatures-merged_res-6:/layout_activity_motion.xml.flat",
+        "source": "com.emotiv.cortexv2example.basicfeatures-main-8:/layout/activity_motion.xml"
+    },
+    {
+        "merged": "com.emotiv.cortexv2example.basicfeatures-merged_res-6:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.emotiv.cortexv2example.basicfeatures-main-8:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.emotiv.cortexv2example.basicfeatures-merged_res-6:/layout_mental_command_training_mc_activity.xml.flat",
+        "source": "com.emotiv.cortexv2example.basicfeatures-main-8:/layout/mental_command_training_mc_activity.xml"
+    },
+    {
+        "merged": "com.emotiv.cortexv2example.basicfeatures-merged_res-6:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.emotiv.cortexv2example.basicfeatures-main-8:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.emotiv.cortexv2example.basicfeatures-merged_res-6:/layout_activity_headset_session_virtual_headset.xml.flat",
+        "source": "com.emotiv.cortexv2example.basicfeatures-main-8:/layout/activity_headset_session_virtual_headset.xml"
+    },
+    {
+        "merged": "com.emotiv.cortexv2example.basicfeatures-merged_res-6:/layout_activity_performance_metrics.xml.flat",
+        "source": "com.emotiv.cortexv2example.basicfeatures-main-8:/layout/activity_performance_metrics.xml"
+    },
+    {
+        "merged": "com.emotiv.cortexv2example.basicfeatures-merged_res-6:/layout_activity_band_power.xml.flat",
+        "source": "com.emotiv.cortexv2example.basicfeatures-main-8:/layout/activity_band_power.xml"
+    },
+    {
+        "merged": "com.emotiv.cortexv2example.basicfeatures-merged_res-6:/layout_activity_mental_command.xml.flat",
+        "source": "com.emotiv.cortexv2example.basicfeatures-main-8:/layout/activity_mental_command.xml"
+    },
+    {
+        "merged": "com.emotiv.cortexv2example.basicfeatures-merged_res-6:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.emotiv.cortexv2example.basicfeatures-main-8:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.emotiv.cortexv2example.basicfeatures-merged_res-6:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.emotiv.cortexv2example.basicfeatures-main-8:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.emotiv.cortexv2example.basicfeatures-merged_res-6:/drawable_ic_emotiv_launcher.png.flat",
+        "source": "com.emotiv.cortexv2example.basicfeatures-main-8:/drawable/ic_emotiv_launcher.png"
+    },
+    {
+        "merged": "com.emotiv.cortexv2example.basicfeatures-merged_res-6:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.emotiv.cortexv2example.basicfeatures-main-8:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.emotiv.cortexv2example.basicfeatures-merged_res-6:/layout_activity_facial_expression_training.xml.flat",
+        "source": "com.emotiv.cortexv2example.basicfeatures-main-8:/layout/activity_facial_expression_training.xml"
+    },
+    {
+        "merged": "com.emotiv.cortexv2example.basicfeatures-merged_res-6:/layout_activity_facial_expression_training_second.xml.flat",
+        "source": "com.emotiv.cortexv2example.basicfeatures-main-8:/layout/activity_facial_expression_training_second.xml"
+    },
+    {
+        "merged": "com.emotiv.cortexv2example.basicfeatures-merged_res-6:/layout_activity_mental_command_training.xml.flat",
+        "source": "com.emotiv.cortexv2example.basicfeatures-main-8:/layout/activity_mental_command_training.xml"
+    },
+    {
+        "merged": "com.emotiv.cortexv2example.basicfeatures-merged_res-6:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.emotiv.cortexv2example.basicfeatures-main-8:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.emotiv.cortexv2example.basicfeatures-merged_res-6:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.emotiv.cortexv2example.basicfeatures-main-8:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.emotiv.cortexv2example.basicfeatures-merged_res-6:/layout_activity_main.xml.flat",
+        "source": "com.emotiv.cortexv2example.basicfeatures-main-8:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.emotiv.cortexv2example.basicfeatures-merged_res-6:/layout_activity_authorize.xml.flat",
+        "source": "com.emotiv.cortexv2example.basicfeatures-main-8:/layout/activity_authorize.xml"
+    },
+    {
+        "merged": "com.emotiv.cortexv2example.basicfeatures-merged_res-6:/layout_headset_list_header.xml.flat",
+        "source": "com.emotiv.cortexv2example.basicfeatures-main-8:/layout/headset_list_header.xml"
+    },
+    {
+        "merged": "com.emotiv.cortexv2example.basicfeatures-merged_res-6:/layout_activity_eeg.xml.flat",
+        "source": "com.emotiv.cortexv2example.basicfeatures-main-8:/layout/activity_eeg.xml"
+    },
+    {
+        "merged": "com.emotiv.cortexv2example.basicfeatures-merged_res-6:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.emotiv.cortexv2example.basicfeatures-main-8:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.emotiv.cortexv2example.basicfeatures-merged_res-6:/menu_menu_activity_eeg.xml.flat",
+        "source": "com.emotiv.cortexv2example.basicfeatures-main-8:/menu/menu_activity_eeg.xml"
+    },
+    {
+        "merged": "com.emotiv.cortexv2example.basicfeatures-merged_res-6:/layout_content_scrolling.xml.flat",
+        "source": "com.emotiv.cortexv2example.basicfeatures-main-8:/layout/content_scrolling.xml"
+    },
+    {
+        "merged": "com.emotiv.cortexv2example.basicfeatures-merged_res-6:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.emotiv.cortexv2example.basicfeatures-main-8:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.emotiv.cortexv2example.basicfeatures-merged_res-6:/layout_activity_facial_expression.xml.flat",
+        "source": "com.emotiv.cortexv2example.basicfeatures-main-8:/layout/activity_facial_expression.xml"
+    },
+    {
+        "merged": "com.emotiv.cortexv2example.basicfeatures-merged_res-6:/layout_activity_headset_session.xml.flat",
+        "source": "com.emotiv.cortexv2example.basicfeatures-main-8:/layout/activity_headset_session.xml"
+    },
+    {
+        "merged": "com.emotiv.cortexv2example.basicfeatures-merged_res-6:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.emotiv.cortexv2example.basicfeatures-main-8:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.emotiv.cortexv2example.basicfeatures-merged_res-6:/layout_recycler_view_item.xml.flat",
+        "source": "com.emotiv.cortexv2example.basicfeatures-main-8:/layout/recycler_view_item.xml"
+    },
+    {
+        "merged": "com.emotiv.cortexv2example.basicfeatures-merged_res-6:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.emotiv.cortexv2example.basicfeatures-main-8:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.emotiv.cortexv2example.basicfeatures-merged_res-6:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.emotiv.cortexv2example.basicfeatures-main-8:/mipmap-mdpi/ic_launcher_round.png"
+    }
+]

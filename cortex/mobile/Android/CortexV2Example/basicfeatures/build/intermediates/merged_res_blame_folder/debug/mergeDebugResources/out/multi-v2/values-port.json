@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.emotiv.cortexv2example.basicfeatures-mergeDebugResources-2:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "D:\\listasapp\\caches\\8.11.1\\transforms\\318872b31d48a55c255bffcd4ef09996\\transformed\\appcompat-1.3.1\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

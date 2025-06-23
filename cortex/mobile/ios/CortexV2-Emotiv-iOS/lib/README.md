@@ -1,0 +1,1 @@
+Add file EmotivCortexLib.xcframework to this folder

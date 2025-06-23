@@ -1,0 +1,2 @@
+include ':basicfeatures', ':EmotivCortexLib', ':cortexclient'
+rootProject.name='CortexV2Example'

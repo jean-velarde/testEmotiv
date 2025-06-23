@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.emotiv.cortexv2example.basicfeatures-mergeDebugResources-4:/values-round-v23/values-round-v23.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\User\\Desktop\\emotivData\\projectRepo\\cortex-embedded-lib-example\\mobile\\Android\\CortexV2Example\\basicfeatures\\src\\main\\res\\values-round\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "58",
+                        "endOffsets": "71"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        }
+    ]
+}

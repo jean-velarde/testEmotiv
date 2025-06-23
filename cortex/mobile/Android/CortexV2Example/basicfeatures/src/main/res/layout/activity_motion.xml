@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btnCreateSession"
+            android:layout_width="200dp"
+            android:layout_height="60dp"
+            android:layout_gravity="center"
+            android:enabled="false"
+            android:text="createSession"
+            android:textAllCaps="false" />
+
+        <Button
+            android:id="@+id/btnSubscribeMotion"
+            android:layout_width="200dp"
+            android:layout_height="60dp"
+            android:layout_gravity="center"
+            android:enabled="false"
+            android:text="subscribe motion"
+            android:textAllCaps="false" />
+
+        <Button
+            android:id="@+id/btnUnSubscribeMotion"
+            android:layout_width="200dp"
+            android:layout_height="60dp"
+            android:layout_gravity="center"
+            android:enabled="false"
+            android:text="unsubscribe motion"
+            android:textAllCaps="false" />
+
+    </LinearLayout>
+
+</ScrollView>

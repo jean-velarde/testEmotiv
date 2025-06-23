@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:orientation="vertical">
+
+        <ProgressBar
+            android:id="@+id/progressBar"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_gravity="center_horizontal"
+            />
+
+        <RelativeLayout
+            android:id="@+id/headsetTable"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="20dp"
+            >
+
+            <ListView
+                android:id="@+id/headsetListView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                tools:listheader="@layout/headset_list_header"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:divider="#f7f7f7"
+                android:dividerHeight="5dp"
+                >
+
+            </ListView>
+
+        </RelativeLayout>
+
+        <Button
+            android:id="@+id/btnQueryHeadsets"
+            android:layout_width="200dp"
+            android:layout_height="60dp"
+            android:layout_gravity="center"
+            android:enabled="false"
+            android:text="queryHeadsets"
+            android:textAllCaps="false" />
+
+        <Button
+            android:id="@+id/btnDisconnectHeadset"
+            android:layout_width="200dp"
+            android:layout_height="60dp"
+            android:layout_gravity="center"
+            android:enabled="false"
+            android:text="Disconnect Headset"
+            android:textAllCaps="false" />
+
+        <Button
+            android:id="@+id/btnCreateSession"
+            android:layout_width="200dp"
+            android:layout_height="60dp"
+            android:layout_gravity="center"
+            android:enabled="false"
+            android:text="createSession"
+            android:textAllCaps="false" />
+
+        <Button
+            android:id="@+id/btnUpdateSession"
+            android:layout_width="200dp"
+            android:layout_height="60dp"
+            android:layout_gravity="center"
+            android:enabled="false"
+            android:text="updateSession(close)"
+            android:textAllCaps="false" />
+
+        <Button
+            android:id="@+id/btnManageVirtualHeadsets"
+            android:layout_width="200dp"
+            android:layout_height="60dp"
+            android:layout_gravity="center"
+            android:enabled="false"
+            android:text="manage virtual headsets"
+            android:textAllCaps="false" />
+
+        <Button
+            android:id="@+id/btnTriggerVirtualHeadsetEvent"
+            android:layout_width="200dp"
+            android:layout_height="60dp"
+            android:layout_gravity="center"
+            android:enabled="false"
+            android:text="triggerVirtualHeadsetEvent"
+            android:textAllCaps="false" />
+
+    </LinearLayout>
+
+</ScrollView>
